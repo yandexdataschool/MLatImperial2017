@@ -1,0 +1,10 @@
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
+
+.ipynb_checkpoints
+*.pyc
+*.DS_Store
